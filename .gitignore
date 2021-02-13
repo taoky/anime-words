@@ -108,3 +108,6 @@ blacklist.json
 
 # Output file
 words.txt
+
+# Tools
+gartic.json
