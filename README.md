@@ -2,7 +2,7 @@
 
 基于规则生成的适用于「你画我猜」（大概吧）的中文动画名词语集。
 
-可能会有一些比较奇怪的单词，酌情使用。
+可能会有一些比较奇怪的单词，请配合 blacklist.json 酌情使用。
 
 ## 使用方法
 
@@ -33,3 +33,9 @@ node index.js > words.txt
 无黑名单版本合计 3130 个词。
 
 如果直接给词表的话，「你画我猜」就不好玩了。所以这里不提供词表（尽管可以生成）。
+
+## License & Acknowledgements
+
+代码的 license 为 The Unlicense（公有领域）。
+
+感谢 <https://github.com/bangumi-data/bangumi-data> 以及 <https://bgm.tv> 的数据。
