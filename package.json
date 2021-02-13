@@ -1,0 +1,14 @@
+{
+  "name": "anime-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "The Unlicense",
+  "dependencies": {
+    "bangumi-data": "^0.3.55"
+  }
+}
